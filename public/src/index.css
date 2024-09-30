@@ -1,8 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-h1, h2 {
-  color: #38353f;
-}
-
